@@ -1,0 +1,10 @@
+import pickle
+import numpy as np
+
+def dummy_model(queue):
+    return int(np.argmax(queue))
+
+with open("model.pkl", "wb") as f:
+    pickle.dump(dummy_model, f)
+
+print("✅ model.pkl created successfully")

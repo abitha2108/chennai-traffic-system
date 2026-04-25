@@ -1,0 +1,4 @@
+time,condition,impact
+08:00,clear,1
+09:00,rain,2
+10:00,heavy_rain,3

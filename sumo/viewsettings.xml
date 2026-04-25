@@ -1,0 +1,15 @@
+<viewsettings>
+    <scheme name="real world">
+
+        <background backgroundColor="0,150,0"/>
+
+        <edges edgeMode="0"/>
+
+        <lanes laneShowDirection="0"/>
+
+        <vehicles vehicleMode="0" vehicleSize="8"/>
+
+        <junctions junctionMode="1"/>
+
+    </scheme>
+</viewsettings>
